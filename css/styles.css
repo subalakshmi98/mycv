@@ -18,14 +18,14 @@
 .cv-cols{
   background-color: #f2efea;
   border: 2px;
-  font-family: 'Mandali';
+  font-family: 'Mandali', cursive;
 
 }
 .cv-cols1{
   padding: 20px 20px;
   background-color: #f2efea;
   border: 2px;
-  font-family: 'Mandali';
+  font-family: 'Mandali', cursive;
 }
 
 .nav-tabs{
@@ -35,7 +35,7 @@
 .nav-item{
 padding: 2px 0 2px;
 background-color: #16a596;
-font-family: 'Mandali';
+font-family: 'Mandali', cursive;
 }
 
 .nav-link{
@@ -76,7 +76,7 @@ span{
 
 h3{
   font-weight: 800;
-font-family: 'Orelega One';
+font-family: 'Orelega One', cursive;
 }
 
 hr{
@@ -106,7 +106,7 @@ h6{
 .btn-submit:hover {
   background: white;
   color: black;
-  font-family: 'Orelega One';
+  font-family: 'Orelega One', cursive;
 }
 
 /* fontawesome */
